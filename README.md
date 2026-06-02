@@ -103,4 +103,5 @@ Buscamos la root
 
 <img width="1920" height="1140" alt="Captura de pantalla 2026-06-02 004443" src="https://github.com/user-attachments/assets/415b911c-ec4c-482a-a3f6-dfc01975175b" />
 
+
 <img width="2688" height="1596" alt="Gemini_Generated_Image_6m953u6m953u6m95" src="https://github.com/user-attachments/assets/5840690a-cab2-41e7-83af-9ac012a7f787" />
